@@ -1,0 +1,12 @@
+Symlinking /home/jin/kingfisher-sim/devel/share/global_planner/cmake/global_plannerConfig-version.cmake
+Symlinking /home/jin/kingfisher-sim/devel/share/global_planner/cmake/global_plannerConfig.cmake
+Symlinking /home/jin/kingfisher-sim/devel/share/global_planner/docs/GlobalPlannerConfig.dox
+Symlinking /home/jin/kingfisher-sim/devel/share/global_planner/docs/GlobalPlannerConfig.wikidoc
+Symlinking /home/jin/kingfisher-sim/devel/share/global_planner/docs/GlobalPlannerConfig-usage.dox
+Symlinking /home/jin/kingfisher-sim/devel/lib/libglobal_planner.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/python2.7/dist-packages/global_planner/__init__.py
+Symlinking /home/jin/kingfisher-sim/devel/lib/python2.7/dist-packages/global_planner/cfg/GlobalPlannerConfig.py
+Symlinking /home/jin/kingfisher-sim/devel/lib/python2.7/dist-packages/global_planner/cfg/__init__.py
+Symlinking /home/jin/kingfisher-sim/devel/lib/global_planner/planner
+Symlinking /home/jin/kingfisher-sim/devel/lib/pkgconfig/global_planner.pc
+Symlinking /home/jin/kingfisher-sim/devel/include/global_planner/GlobalPlannerConfig.h

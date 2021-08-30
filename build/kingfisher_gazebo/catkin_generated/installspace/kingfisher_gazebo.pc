@@ -1,0 +1,8 @@
+prefix=/home/jin/kingfisher-sim/install
+
+Name: kingfisher_gazebo
+Description: Description of kingfisher_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

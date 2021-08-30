@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/kingfisher_msgs/share/kingfisher_msgs/cmake/kingfisher_msgsConfig.cmake

@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/jin/kingfisher-sim/devel/.private/wave_gazebo_plugins/lib;/home/jin/kingfisher-sim/devel/.private/gazebo_ros/lib;/opt/ros/melodic/lib;/usr/lib/x86_64-linux-gnu;/usr/lib/x86_64-linux-gnu/gazebo-9/plugins")

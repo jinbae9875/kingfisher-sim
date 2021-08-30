@@ -1,0 +1,5 @@
+Symlinking /home/jin/kingfisher-sim/devel/share/gazebo_ros_control/cmake/gazebo_ros_controlConfig-version.cmake
+Symlinking /home/jin/kingfisher-sim/devel/share/gazebo_ros_control/cmake/gazebo_ros_controlConfig.cmake
+Symlinking /home/jin/kingfisher-sim/devel/lib/libdefault_robot_hw_sim.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/libgazebo_ros_control.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/pkgconfig/gazebo_ros_control.pc

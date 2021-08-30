@@ -1,0 +1,4 @@
+Symlinking /home/jin/kingfisher-sim/devel/share/wamv_description/urdf/wamv_base.urdf
+Symlinking /home/jin/kingfisher-sim/devel/share/wamv_description/cmake/wamv_descriptionConfig-version.cmake
+Symlinking /home/jin/kingfisher-sim/devel/share/wamv_description/cmake/wamv_descriptionConfig.cmake
+Symlinking /home/jin/kingfisher-sim/devel/lib/pkgconfig/wamv_description.pc

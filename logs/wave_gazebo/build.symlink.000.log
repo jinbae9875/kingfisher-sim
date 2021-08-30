@@ -1,0 +1,6 @@
+Symlinking /home/jin/kingfisher-sim/devel/share/wave_gazebo/cmake/wave_gazeboConfig-version.cmake
+Symlinking /home/jin/kingfisher-sim/devel/share/wave_gazebo/cmake/wave_gazeboConfig.cmake
+Symlinking /home/jin/kingfisher-sim/devel/share/wave_gazebo/worlds/ocean_buoys.world
+Symlinking /home/jin/kingfisher-sim/devel/share/wave_gazebo/worlds/ocean_wamv.world
+Symlinking /home/jin/kingfisher-sim/devel/share/wave_gazebo/worlds/ocean.world
+Symlinking /home/jin/kingfisher-sim/devel/lib/pkgconfig/wave_gazebo.pc

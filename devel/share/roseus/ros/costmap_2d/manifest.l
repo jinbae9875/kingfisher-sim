@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/costmap_2d/share/roseus/ros/costmap_2d/manifest.l

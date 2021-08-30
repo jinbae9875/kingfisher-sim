@@ -1,0 +1,11 @@
+Symlinking /home/jin/kingfisher-sim/devel/share/dwa_local_planner/cmake/dwa_local_plannerConfig.cmake
+Symlinking /home/jin/kingfisher-sim/devel/share/dwa_local_planner/cmake/dwa_local_plannerConfig-version.cmake
+Symlinking /home/jin/kingfisher-sim/devel/share/dwa_local_planner/docs/DWAPlannerConfig.dox
+Symlinking /home/jin/kingfisher-sim/devel/share/dwa_local_planner/docs/DWAPlannerConfig.wikidoc
+Symlinking /home/jin/kingfisher-sim/devel/share/dwa_local_planner/docs/DWAPlannerConfig-usage.dox
+Symlinking /home/jin/kingfisher-sim/devel/lib/libdwa_local_planner.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/python2.7/dist-packages/dwa_local_planner/__init__.py
+Symlinking /home/jin/kingfisher-sim/devel/lib/python2.7/dist-packages/dwa_local_planner/cfg/__init__.py
+Symlinking /home/jin/kingfisher-sim/devel/lib/python2.7/dist-packages/dwa_local_planner/cfg/DWAPlannerConfig.py
+Symlinking /home/jin/kingfisher-sim/devel/lib/pkgconfig/dwa_local_planner.pc
+Symlinking /home/jin/kingfisher-sim/devel/include/dwa_local_planner/DWAPlannerConfig.h

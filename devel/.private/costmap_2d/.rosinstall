@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jin/kingfisher-sim/devel/.private/costmap_2d/setup.sh

@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/navfn/share/roseus/ros/navfn/srv/MakeNavPlan.l

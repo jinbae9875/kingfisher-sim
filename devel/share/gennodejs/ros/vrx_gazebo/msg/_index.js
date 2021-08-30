@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/vrx_gazebo/share/gennodejs/ros/vrx_gazebo/msg/_index.js

@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/navfn/share/navfn/cmake/navfnConfig.cmake

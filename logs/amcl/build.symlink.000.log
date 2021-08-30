@@ -1,0 +1,14 @@
+Symlinking /home/jin/kingfisher-sim/devel/share/amcl/cmake/amclConfig-version.cmake
+Symlinking /home/jin/kingfisher-sim/devel/share/amcl/cmake/amclConfig.cmake
+Symlinking /home/jin/kingfisher-sim/devel/share/amcl/docs/AMCLConfig.dox
+Symlinking /home/jin/kingfisher-sim/devel/share/amcl/docs/AMCLConfig.wikidoc
+Symlinking /home/jin/kingfisher-sim/devel/share/amcl/docs/AMCLConfig-usage.dox
+Symlinking /home/jin/kingfisher-sim/devel/lib/libamcl_map.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/libamcl_sensors.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/libamcl_pf.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/amcl/amcl
+Symlinking /home/jin/kingfisher-sim/devel/lib/python2.7/dist-packages/amcl/__init__.py
+Symlinking /home/jin/kingfisher-sim/devel/lib/python2.7/dist-packages/amcl/cfg/__init__.py
+Symlinking /home/jin/kingfisher-sim/devel/lib/python2.7/dist-packages/amcl/cfg/AMCLConfig.py
+Symlinking /home/jin/kingfisher-sim/devel/lib/pkgconfig/amcl.pc
+Symlinking /home/jin/kingfisher-sim/devel/include/amcl/AMCLConfig.h

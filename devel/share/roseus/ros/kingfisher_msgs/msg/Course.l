@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/kingfisher_msgs/share/roseus/ros/kingfisher_msgs/msg/Course.l

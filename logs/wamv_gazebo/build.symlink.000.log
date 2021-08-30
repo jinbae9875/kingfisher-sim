@@ -1,0 +1,4 @@
+Symlinking /home/jin/kingfisher-sim/devel/share/wamv_gazebo/urdf/wamv_gazebo.urdf
+Symlinking /home/jin/kingfisher-sim/devel/share/wamv_gazebo/cmake/wamv_gazeboConfig.cmake
+Symlinking /home/jin/kingfisher-sim/devel/share/wamv_gazebo/cmake/wamv_gazeboConfig-version.cmake
+Symlinking /home/jin/kingfisher-sim/devel/lib/pkgconfig/wamv_gazebo.pc

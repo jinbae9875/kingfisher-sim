@@ -1,0 +1,42 @@
+[35m[1mScanning dependencies of target _kingfisher_msgs_generate_messages_check_deps_Drive[0m
+[35m[1mScanning dependencies of target _kingfisher_msgs_generate_messages_check_deps_Sense[0m
+[35m[1mScanning dependencies of target _kingfisher_msgs_generate_messages_check_deps_Course[0m
+[35m[1mScanning dependencies of target _kingfisher_msgs_generate_messages_check_deps_Helm[0m
+[  0%] Built target _kingfisher_msgs_generate_messages_check_deps_Drive
+[  0%] Built target _kingfisher_msgs_generate_messages_check_deps_Course
+[  0%] Built target _kingfisher_msgs_generate_messages_check_deps_Helm
+[  0%] Built target _kingfisher_msgs_generate_messages_check_deps_Sense
+[35m[1mScanning dependencies of target kingfisher_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target kingfisher_msgs_generate_messages_nodejs[0m
+[  4%] [34m[1mGenerating EusLisp code from kingfisher_msgs/Drive.msg[0m
+[  9%] [34m[1mGenerating Javascript code from kingfisher_msgs/Drive.msg[0m
+[ 13%] [34m[1mGenerating Javascript code from kingfisher_msgs/Course.msg[0m
+[ 18%] [34m[1mGenerating Javascript code from kingfisher_msgs/Sense.msg[0m
+[ 22%] [34m[1mGenerating Javascript code from kingfisher_msgs/Helm.msg[0m
+[ 27%] [34m[1mGenerating EusLisp code from kingfisher_msgs/Course.msg[0m
+[ 31%] [34m[1mGenerating EusLisp code from kingfisher_msgs/Helm.msg[0m
+[ 36%] [34m[1mGenerating EusLisp code from kingfisher_msgs/Sense.msg[0m
+[ 36%] Built target kingfisher_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target kingfisher_msgs_generate_messages_py[0m
+[ 40%] [34m[1mGenerating EusLisp manifest code for kingfisher_msgs[0m
+[ 45%] [34m[1mGenerating Python from MSG kingfisher_msgs/Drive[0m
+[35m[1mScanning dependencies of target kingfisher_msgs_generate_messages_cpp[0m
+[ 50%] [34m[1mGenerating C++ code from kingfisher_msgs/Drive.msg[0m
+[35m[1mScanning dependencies of target kingfisher_msgs_generate_messages_lisp[0m
+[ 54%] [34m[1mGenerating Lisp code from kingfisher_msgs/Drive.msg[0m
+[ 59%] [34m[1mGenerating Lisp code from kingfisher_msgs/Course.msg[0m
+[ 63%] [34m[1mGenerating Python from MSG kingfisher_msgs/Course[0m
+[ 68%] [34m[1mGenerating Lisp code from kingfisher_msgs/Helm.msg[0m
+[ 72%] [34m[1mGenerating C++ code from kingfisher_msgs/Course.msg[0m
+[ 77%] [34m[1mGenerating Lisp code from kingfisher_msgs/Sense.msg[0m
+[ 77%] Built target kingfisher_msgs_generate_messages_lisp
+[ 81%] [34m[1mGenerating Python from MSG kingfisher_msgs/Helm[0m
+[ 86%] [34m[1mGenerating C++ code from kingfisher_msgs/Helm.msg[0m
+[ 90%] [34m[1mGenerating Python from MSG kingfisher_msgs/Sense[0m
+[ 95%] [34m[1mGenerating C++ code from kingfisher_msgs/Sense.msg[0m
+[100%] [34m[1mGenerating Python msg __init__.py for kingfisher_msgs[0m
+[100%] Built target kingfisher_msgs_generate_messages_cpp
+[100%] Built target kingfisher_msgs_generate_messages_py
+[100%] Built target kingfisher_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target kingfisher_msgs_generate_messages[0m
+[100%] Built target kingfisher_msgs_generate_messages

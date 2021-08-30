@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/roseus/ros/gazebo_msgs/srv/GetLightProperties.l

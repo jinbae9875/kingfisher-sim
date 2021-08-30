@@ -1,0 +1,7 @@
+Symlinking /home/jin/kingfisher-sim/devel/share/wave_gazebo_plugins/cmake/wave_gazebo_pluginsConfig.cmake
+Symlinking /home/jin/kingfisher-sim/devel/share/wave_gazebo_plugins/cmake/wave_gazebo_pluginsConfig-version.cmake
+Symlinking /home/jin/kingfisher-sim/devel/lib/libHydrodynamics.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/libwavegauge_plugin.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/libWavefieldModelPlugin.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/libWavefieldVisualPlugin.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/pkgconfig/wave_gazebo_plugins.pc

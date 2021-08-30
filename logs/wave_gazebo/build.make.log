@@ -1,0 +1,6 @@
+[  7%] [34m[1mCopying to devel space: /home/jin/kingfisher-sim/devel/.private/wave_gazebo/share/wave_gazebo/worlds/ocean.world[0m
+[ 15%] Built target model_erb_generation
+[ 46%] Built target wave_gazebo__xacro_auto_generate
+[ 53%] [34m[1mCopying to devel space: /home/jin/kingfisher-sim/devel/.private/wave_gazebo/share/wave_gazebo/worlds/ocean_buoys.world[0m
+[100%] Built target wave_gazebo__xacro_auto_generate_to_devel_space_
+[100%] Built target wave_gazebo_xacro_generated_to_devel_space_

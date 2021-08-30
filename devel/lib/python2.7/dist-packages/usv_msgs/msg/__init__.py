@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/usv_msgs/lib/python2.7/dist-packages/usv_msgs/msg/__init__.py

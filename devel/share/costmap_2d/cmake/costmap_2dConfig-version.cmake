@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/costmap_2d/share/costmap_2d/cmake/costmap_2dConfig-version.cmake

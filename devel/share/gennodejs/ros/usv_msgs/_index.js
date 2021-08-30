@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/usv_msgs/share/gennodejs/ros/usv_msgs/_index.js

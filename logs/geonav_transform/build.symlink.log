@@ -1,0 +1,7 @@
+Symlinking /home/jin/kingfisher-sim/devel/share/geonav_transform/cmake/geonav_transformConfig.cmake
+Symlinking /home/jin/kingfisher-sim/devel/share/geonav_transform/cmake/geonav_transformConfig-version.cmake
+Symlinking /home/jin/kingfisher-sim/devel/lib/libgeonav_transform.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/geonav_transform/geonav_transform_node
+Symlinking /home/jin/kingfisher-sim/devel/lib/python2.7/dist-packages/geonav_transform/__init__.py
+Symlinking /home/jin/kingfisher-sim/devel/lib/python2.7/dist-packages/alvinxy/__init__.py
+Symlinking /home/jin/kingfisher-sim/devel/lib/pkgconfig/geonav_transform.pc

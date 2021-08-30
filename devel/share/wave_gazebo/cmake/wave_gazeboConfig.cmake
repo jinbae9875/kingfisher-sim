@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/wave_gazebo/share/wave_gazebo/cmake/wave_gazeboConfig.cmake

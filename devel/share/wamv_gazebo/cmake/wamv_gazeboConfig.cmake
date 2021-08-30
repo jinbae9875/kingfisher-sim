@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/wamv_gazebo/share/wamv_gazebo/cmake/wamv_gazeboConfig.cmake

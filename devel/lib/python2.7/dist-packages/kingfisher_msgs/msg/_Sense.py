@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/kingfisher_msgs/lib/python2.7/dist-packages/kingfisher_msgs/msg/_Sense.py

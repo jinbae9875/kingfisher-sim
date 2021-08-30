@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jin/kingfisher-sim/devel/.private/base_local_planner/setup.sh

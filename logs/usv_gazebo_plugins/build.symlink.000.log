@@ -1,0 +1,9 @@
+Symlinking /home/jin/kingfisher-sim/devel/share/usv_gazebo_plugins/cmake/usv_gazebo_pluginsConfig.cmake
+Symlinking /home/jin/kingfisher-sim/devel/share/usv_gazebo_plugins/cmake/usv_gazebo_pluginsConfig-version.cmake
+Symlinking /home/jin/kingfisher-sim/devel/share/usv_gazebo_plugins/worlds/buoyancy_plugin_demo.world
+Symlinking /home/jin/kingfisher-sim/devel/lib/libusv_gazebo_wind_plugin.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/libusv_gazebo_thrust_plugin.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/libusv_gazebo_acoustic_pinger_plugin.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/libbuoyancy_gazebo_plugin.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/libusv_gazebo_dynamics_plugin.so
+Symlinking /home/jin/kingfisher-sim/devel/lib/pkgconfig/usv_gazebo_plugins.pc

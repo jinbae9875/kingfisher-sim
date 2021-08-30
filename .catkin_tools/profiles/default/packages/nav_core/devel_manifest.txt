@@ -1,0 +1,5 @@
+navigation/nav_core
+/home/jin/kingfisher-sim/devel/.private/nav_core/cmake.lock /home/jin/kingfisher-sim/devel/./cmake.lock
+/home/jin/kingfisher-sim/devel/.private/nav_core/share/nav_core/cmake/nav_coreConfig.cmake /home/jin/kingfisher-sim/devel/share/nav_core/cmake/nav_coreConfig.cmake
+/home/jin/kingfisher-sim/devel/.private/nav_core/share/nav_core/cmake/nav_coreConfig-version.cmake /home/jin/kingfisher-sim/devel/share/nav_core/cmake/nav_coreConfig-version.cmake
+/home/jin/kingfisher-sim/devel/.private/nav_core/lib/pkgconfig/nav_core.pc /home/jin/kingfisher-sim/devel/lib/pkgconfig/nav_core.pc

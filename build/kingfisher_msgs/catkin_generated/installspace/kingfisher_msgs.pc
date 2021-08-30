@@ -1,0 +1,8 @@
+prefix=/home/jin/kingfisher-sim/install
+
+Name: kingfisher_msgs
+Description: Description of kingfisher_msgs
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/vrx_gazebo/share/common-lisp/ros/vrx_gazebo/srv/_package_ColorSequence.lisp

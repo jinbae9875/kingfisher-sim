@@ -1,0 +1,6 @@
+devel_space: /home/jin/kingfisher-sim/devel
+install: false
+install_space: /home/jin/kingfisher-sim/install
+profile: default
+source_space: /home/jin/kingfisher-sim/src
+workspace: /home/jin/kingfisher-sim

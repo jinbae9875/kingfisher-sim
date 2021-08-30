@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/usv_msgs/share/usv_msgs/cmake/usv_msgs-msg-extras.cmake

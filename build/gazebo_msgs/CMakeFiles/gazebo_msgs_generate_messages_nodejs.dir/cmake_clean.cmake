@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/gazebo_msgs_generate_messages_nodejs"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/msg/ODEJointProperties.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/msg/ModelStates.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/msg/ODEPhysics.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/msg/LinkState.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/msg/ModelState.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/msg/ContactsState.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/msg/WorldState.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/msg/ContactState.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/msg/SensorPerformanceMetric.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/msg/LinkStates.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/msg/PerformanceMetrics.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/SetLinkState.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/BodyRequest.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/GetPhysicsProperties.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/JointRequest.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/GetModelState.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/SetJointProperties.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/ApplyBodyWrench.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/GetLinkState.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/ApplyJointEffort.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/SetModelConfiguration.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/SetPhysicsProperties.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/GetWorldProperties.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/SetLightProperties.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/SetLinkProperties.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/SpawnModel.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/DeleteModel.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/SetJointTrajectory.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/GetModelProperties.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/GetLightProperties.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/GetLinkProperties.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/DeleteLight.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/SetModelState.js"
+  "/home/jin/kingfisher-sim/devel/.private/gazebo_msgs/share/gennodejs/ros/gazebo_msgs/srv/GetJointProperties.js"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/gazebo_msgs_generate_messages_nodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

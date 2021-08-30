@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/catkin_tools_prebuild/setup.sh

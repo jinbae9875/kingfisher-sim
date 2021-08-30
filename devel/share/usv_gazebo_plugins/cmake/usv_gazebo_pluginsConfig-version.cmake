@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/usv_gazebo_plugins/share/usv_gazebo_plugins/cmake/usv_gazebo_pluginsConfig-version.cmake

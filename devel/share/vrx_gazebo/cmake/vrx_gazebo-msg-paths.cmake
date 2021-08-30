@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/vrx_gazebo/share/vrx_gazebo/cmake/vrx_gazebo-msg-paths.cmake

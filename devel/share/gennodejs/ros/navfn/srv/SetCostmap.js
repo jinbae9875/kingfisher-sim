@@ -1,0 +1,1 @@
+/home/jin/kingfisher-sim/devel/.private/navfn/share/gennodejs/ros/navfn/srv/SetCostmap.js
